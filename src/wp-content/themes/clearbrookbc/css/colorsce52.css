@@ -1,0 +1,33 @@
+.container-fluid .menu {
+	background-color: rgba(3, 3, 3, 0.7);
+}
+
+.menu * {
+	color: #fff;
+}
+
+.primary {
+	background: #111b2a;	
+}
+
+.primary *, .primary {
+	color: #fff;
+}
+
+.white *, .white {
+	color: #000;
+}
+
+.light {
+	background: #1d2735;
+}
+
+.light, .light * {
+	color: #fff;
+}
+
+
+.tribe_events .primary {
+	color: #000;
+	background: #fff;
+}

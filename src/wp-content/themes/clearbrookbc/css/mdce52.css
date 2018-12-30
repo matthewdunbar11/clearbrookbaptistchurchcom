@@ -1,0 +1,38 @@
+@media (min-width: 992px) {
+	.pull-up {
+		margin-top: -80px;
+	}
+
+	.pull-up > div {
+		opacity: .95;
+	}
+
+	.vertical-center-md {
+		position: relative;
+		top: 50%;
+		transform: translateY(-50%);
+	}
+	.headerImage {
+		top: -260px;
+		margin-bottom: -260px;
+		height: 260px;
+	}
+	.menu {
+	    height: 260px;
+	}
+
+	.wp-post-image {
+		float: left;
+		margin-right: 15px;
+		margin-top: 7px;
+	}
+
+	.navbar-default .navbar-nav>li>a {
+		font-family: 'nexa_boldregular';
+		font-size: 21.3px;
+		color: #fff;
+		text-transform: uppercase;
+		transition: all .15s;
+	}
+
+}
