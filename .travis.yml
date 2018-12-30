@@ -7,3 +7,4 @@ deploy:
 branches:
   only:
   - master
+language: minimal
