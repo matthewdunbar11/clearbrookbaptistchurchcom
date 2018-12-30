@@ -3,7 +3,7 @@
 	top: -230px;
 	margin-bottom: -230px;
 	z-index: -1;
-	background: url(../images/church.jpg) top;
+	background: url(/wp-content/themes/clearbrookbc/images/church.jpg) top;
 	height: 230px;
 }
 
