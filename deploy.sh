@@ -1,0 +1,1 @@
+aws cloudformation deploy --template-file cloudformation.yml --stack-name clearbrookbaptistchurchcom --parameter-overrides HostedZone=clearbrookbaptistchurch.com --tags customer=clearbrookbaptistchurch
